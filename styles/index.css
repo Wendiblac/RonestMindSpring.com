@@ -189,7 +189,7 @@ ul li {
     display: flex;
     flex-direction: row;
     gap: 100px;
-    margin-top: 350px;
+    margin-top: 400px;
     align-items: center;
 }
 
@@ -682,9 +682,9 @@ button img:active {
 .whyus-section {
     background-image: url(../assets/whyusbg.png);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     height: 100%;
-    width: 100vw;
+    width: 100%;
     padding: 30px 0px;
 }
 
