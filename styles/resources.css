@@ -588,7 +588,7 @@ button img:active {
     /*HERO SECTION*/
 
     .hero-section {
-        background-image: url(../assets/mobresourceshero.jpg);
+        background-image: url(../assets/resourceshero.jpg);
         background-repeat: no-repeat;
         background-size: cover;
         height: 100%;
